@@ -9,9 +9,6 @@ package practica2dba;
  *
  * @author Usuario
  */
-public class Agente {
-    private Bateria myBateria;
-    private GPS myGPS;
-    private Radar myRadar;
-    private Scanner myScanner;
+public class Scanner {
+    
 }
